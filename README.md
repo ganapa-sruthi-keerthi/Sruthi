@@ -1,5 +1,5 @@
 # Sruthi
 my first
 <br>
-author:sruthi keerthi
+author:sruthi keerthi(ganapa)
 
